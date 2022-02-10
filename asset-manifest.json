@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.4a3e9397.css",
+    "main.js": "/Portfolio/static/js/main.941d753c.js",
+    "static/media/proyecto2.png": "/Portfolio/static/media/proyecto2.7bef75c15fda38287ee1.png",
+    "static/media/proyecto1.png": "/Portfolio/static/media/proyecto1.f181adceb2f51de6a04a.png",
+    "static/media/paisaje1.jpg": "/Portfolio/static/media/paisaje1.e85b013d87bce78bab36.jpg",
+    "static/media/Perfil.png": "/Portfolio/static/media/Perfil.28c5dd713fe6a9d1b078.png",
+    "static/media/proyecto3.png": "/Portfolio/static/media/proyecto3.78dba7f66cb16e354ac0.png",
+    "static/media/react.png": "/Portfolio/static/media/react.35639ed930462bfcd544.png",
+    "static/media/java.png": "/Portfolio/static/media/java.f4ea765878d6e68edefd.png",
+    "static/media/mysql.png": "/Portfolio/static/media/mysql.bdbd1eb709e4c13258d2.png",
+    "static/media/restApi.png": "/Portfolio/static/media/restApi.91731f6dc830f7e8418b.png",
+    "static/media/scrum.png": "/Portfolio/static/media/scrum.1f53d2e3c818a621bb77.png",
+    "static/media/nodejs.png": "/Portfolio/static/media/nodejs.007e99f68b718e476aba.png",
+    "static/media/visual.png": "/Portfolio/static/media/visual.ce637e60ea8d930e6547.png",
+    "static/media/Intellij.png": "/Portfolio/static/media/Intellij.b800eba8ab37bd400422.png",
+    "static/media/js.png": "/Portfolio/static/media/js.aa2e5317530cc7559aea.png",
+    "static/media/figma.png": "/Portfolio/static/media/figma.72fbc535ebe253a5dbc4.png",
+    "static/media/css-3.png": "/Portfolio/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "static/media/iconoGithub.svg": "/Portfolio/static/media/iconoGithub.12823e26ce543f3df299c36f27814fc7.svg",
+    "static/media/iconsWhatsapp.svg": "/Portfolio/static/media/iconsWhatsapp.298d19bb5c096bfd22d6f849f9fee0e7.svg",
+    "static/media/git.svg": "/Portfolio/static/media/git.c60b7e5ae8ec2562f23fdddcab300026.svg",
+    "index.html": "/Portfolio/index.html",
+    "static/media/iconoLinkedIn.svg": "/Portfolio/static/media/iconoLinkedIn.07d364b693197ddaff07d1cb8493b1a5.svg",
+    "main.4a3e9397.css.map": "/Portfolio/static/css/main.4a3e9397.css.map",
+    "main.941d753c.js.map": "/Portfolio/static/js/main.941d753c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a3e9397.css",
+    "static/js/main.941d753c.js"
+  ]
+}
