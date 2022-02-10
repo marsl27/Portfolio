@@ -1,0 +1,99 @@
+.container {
+    
+    display:flex;
+    align-items:center;
+    flex-direction: column;
+    height: calc(100vh - 70px - 58px);
+    justify-content: space-around;
+}
+
+.container>img{
+    border-radius:70px;
+    min-width: 250px;
+    width:20%
+}
+
+.container h1{
+    color:white;
+    font-size:42px;
+}
+
+.containerSubtitle{
+    text-align: center;
+    width: 100%;
+}
+.containerSubtitle .subtitle {
+    color:white;
+    
+  display:inline-block;
+  font-size:30px;
+  overflow:hidden;
+  white-space:nowrap;
+  
+    
+}
+
+.containerSubtitle .subtitle:first-of-type {  
+  animation: showup 7s infinite;
+}
+
+.containerSubtitle .subtitle:last-of-type {
+  width:0px;
+  animation: reveal 7s infinite;
+}
+
+.containerSubtitle .subtitle:last-of-type span {
+    color: rgb(200, 150, 205);
+    font-weight:bold;
+    margin-left:-55px;
+    animation: slidein 7s infinite;
+}
+
+@keyframes showup {
+    0% {opacity:0;}
+    20% {opacity:1;}
+    80% {opacity:1;}
+    100% {opacity:0;}
+}
+
+@keyframes slidein {
+    0% { margin-left:-800px; }
+    20% { margin-left:-800px; }
+    35% { margin-left:60px; }
+    100% { margin-left:0px; }
+}
+
+@keyframes reveal {
+    0% {opacity:0;width:0px;}
+    20% {opacity:1;width:0px;}
+    30% {width:175px;}
+    80% {opacity:1;}
+    100% {opacity:0;width:175px;}
+}
+
+.icons{
+    background-color: white;
+    border-radius:20px;
+    display:flex;
+    justify-content: space-evenly;
+    min-width:250px;
+    max-width: 300px;
+    width:40%;
+}
+
+.icons img{
+    border-radius:50%;
+    color:white;
+    height:60px;
+    transition: all 0.5s;
+}
+
+.icons img:hover{
+    transform: scale(1.2)
+}
+
+@media all and (max-width: 769px) {
+.icons{
+    width:50%
+}
+}

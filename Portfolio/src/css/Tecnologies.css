@@ -1,0 +1,32 @@
+.containerTecnologies{
+    display:flex;
+    flex-direction:column;
+    height: calc(100vh - 70px - 58px);
+    justify-content: space-evenly;
+    
+}
+
+.containerTecnologies h3{
+    color:white;
+    font-size:40px;
+    text-align:center;
+}
+
+.containerIcons{
+    display:grid;
+    justify-items:center;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap:40px;
+    
+}
+
+.containerIcons img{
+   background-color:white;
+   border-radius:30%;
+   transition: all 0.5s;
+    width:50px;
+}
+
+.containerIcons img:hover{
+    transform: scale(1.2)
+}

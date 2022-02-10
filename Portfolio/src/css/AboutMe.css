@@ -1,0 +1,36 @@
+.containerPrincipalAboutMe{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    min-height: calc(100vh - 70px - 58px);
+}
+
+.containerAboutMe{
+    background-color:black;
+    display:flex;
+    align-items: center;
+    flex-direction:column;
+    padding:15px;
+    width:70%;
+}
+
+.containerAboutMe h3, .containerAboutMe p{
+    color: white;
+    
+}
+
+.containerAboutMe h3{
+    font-size:36px;
+    text-align:center;
+}
+
+.containerAboutMe p{
+    font-size:22px;
+    text-align:justify;
+}
+
+.containerAboutMe p span{
+    color: rgb(180, 0, 180);
+    font-weight:bold;
+    text-transform: uppercase;
+}

@@ -1,0 +1,11 @@
+.containerGeneral{
+    height:100%;
+}
+
+.main{
+background: url("./images/paisaje1.jpg") no-repeat center center fixed;
+    min-height: calc(100vh - 70px - 58px);
+    padding-bottom: 58px;
+    position:relative;
+    top:70px; 
+}
