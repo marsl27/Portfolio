@@ -20,7 +20,7 @@ export default function Home(){
                 <a href="https://www.linkedin.com/in/mariel-cecilia-romeo/" target="_blank" rel="noreferrer"><img src={LinkedIn} alt="icono de linkedIn"/></a>
                 <a href="https://github.com/marsl27" target="_blank" rel="noreferrer"><img src={GitHub} alt="icono de github"/></a>
                 <a href="mailto:marielceciliaromeo@hotmail.com"><img src={Mail} alt="icono de email"/></a>
-                <a href="https://drive.google.com/file/d/18GFGoDdYzX7yC5T43Btg6YySC5KtZmP7/view?usp=sharing" target="_blank" rel="noreferrer"><img src={IconCv} alt="icono cv"/></a>
+                <a href="https://drive.google.com/file/d/1UIew_uP_2-5JEDveAFkxIdCYzEWTKXws/view?usp=sharing" target="_blank" rel="noreferrer"><img src={IconCv} alt="icono cv"/></a>
                 <a href="https://wa.me/+5491166437671/" target="_blank" rel="noreferrer"><img src={WhatsApp} alt="icono whatsapp"/></a>
             </div>
         </div>
